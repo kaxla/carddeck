@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in deck.gemspec
-gemspec
+ruby "2.1.0"
+
+gem "minitest", "~> 5.2.1"
