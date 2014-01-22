@@ -1,0 +1,3 @@
+module Deck
+  VERSION = "0.0.1"
+end
